@@ -1,5 +1,6 @@
 # Festivos
-https://github.com/user-attachments/assets/197fbbc2-ee66-4797-ae01-9ca483c04a7f
+![Screen Recording 2024-11-24 at 1 09 50 AM (1)](https://github.com/user-attachments/assets/48ebceb3-d601-4656-bcd6-280c99bf8cc9)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
 ## Development server
