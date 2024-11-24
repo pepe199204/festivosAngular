@@ -1,0 +1,11 @@
+.demo-inline-calendar-card {
+  width: 30%;
+}
+.contenedorCalendario {
+  margin: 15px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
